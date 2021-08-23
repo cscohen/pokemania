@@ -2,7 +2,7 @@ import React from "react";
 
 function PokeCard({pokes}) {
 
-    
+    //test data, don't really like how this one was exexcuted. leaving for notes for reference
 //         let allPokemonContainer = document.getElementById('poke-container');
 //         <div>
 //             <h4>{pokeName = pokes.name} </h4>
